@@ -1,5 +1,3 @@
-# PHP
-PHP Assignments
 
 <div align="center">
     <a href="https://www.php.net">
@@ -13,9 +11,7 @@ PHP Assignments
 # The PHP Interpreter
 
 PHP is a popular general-purpose scripting language that is especially suited to
-web development. Fast, flexible and pragmatic, PHP powers everything from your
-blog to the most popular websites in the world. PHP is distributed under the
-[PHP License v3.01](LICENSE).
+web development. 
 
 
 ## Documentation
