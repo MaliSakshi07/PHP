@@ -16,7 +16,6 @@
     {
         echo "Given number is Armstrong Number";
     }
-        
     else
     {
          echo "Given number is Not Armstrong Number";
